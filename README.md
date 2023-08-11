@@ -26,22 +26,47 @@
   - [Acknowledgments](#acknowledgments)
 
 
-
 ## Project summary
 
 ### The issue we are hoping to solve
 
-ProsumerSense combines AI algorithms with social-physical sensing fusion to provide unparalleled visibility into prosumer energy behavior. With accurate forecasts and intelligent analytics powered by the IBM Watson AI at your fingertips, energy usage, and grid optimization is efficiently sustainable
+Current housing practices lack environmental optimization, resulting in unsustainable resource consumption and energy inefficiency. Traditional housing practices result in substantial ecological impact, resource wastage, and energy inefficiency. ProsumerSense addresses the urgent sustainability challenges of housing, aiming to optimize environmental parameters, energy consumption and grid optimization. It leverages AI, IoT, and advanced technologies to revolutionize the sector, making it more ecologically responsible and economically viable. 
+[IEEE: "A Framework for Sustainable Housing Practices," DOI: 10.1109/IEEEMagazine.2019.8898192]
 
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+ProsumerSense: Watson AI-driven tech optimizes housing's environment, energy, and grid.
 
 ### Our idea
 
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
+ProsumerSense: Revolutionizing Sustainable Housing through Watson AI-Enabled BIM and Digital Twin Technology
 
-More detail is available in our [description document](./docs/DESCRIPTION.md).
+**Real-World Problem:**
+The global housing sector is facing a critical challenge in terms of sustainability and environmental impact. Traditional housing practices have led to excessive resource consumption, energy inefficiency, and ecological strain. The construction of over 10 million houses by 2020, with an estimated revenue exceeding $12.6 trillion, underscores the urgency of addressing these issues. Current housing models not only fall short in terms of environmental responsibility but also impact social and economic facets of sustainability.
+
+**Technological Solution:**
+ProsumerSense presents an innovative solution that harnesses the power of AI, Building Information Modeling (BIM), and Digital Twin technology to optimize housing's environmental parameters, energy consumption, and grid efficiency. The cornerstone of the ProsumerSense approach lies in its integration of social-physical behavioral sensing, enabling an adaptive and responsive housing ecosystem.
+
+At the heart of ProsumerSense is an AI-enabled BIM and Digital Twin system that creates a virtual representation of a physical house. This model incorporates real-time data from a variety of sources, including IoT-enabled sensors that capture environmental conditions and social-physical behaviors. By fusing these data streams, ProsumerSense generates insights into how a house interacts with its environment and occupants.
+
+**Improvement Over Existing Solutions:**
+Compared to conventional housing practices and existing solutions, ProsumerSense offers several key improvements:
+
+1. **Holistic Optimization:** ProsumerSense's holistic approach addresses environmental, social, and economic dimensions of housing sustainability. It optimizes energy consumption based on real-time environmental conditions and inhabitants' behavior, leading to enhanced resource efficiency.
+
+2. **Adaptive Intelligence:** The AI-enabled BIM and Digital Twin technology provide an intelligent, adaptive platform. This allows for real-time adjustments and optimization of a house's parameters, such as temperature, lighting, and ventilation, to create a comfortable and energy-efficient living environment.
+
+3. **Grid Efficiency Integration:** In addition to optimizing individual houses, ProsumerSense considers grid efficiency. By coordinating energy consumption patterns within a neighborhood or community, the system contributes to more balanced grid utilization and reduced strain on energy resources.
+
+4. **Transparency and Accountability:** ProsumerSense enhances transparency and accountability in housing practices. AI Factsheets track and document every step of the machine learning model lifecycle, promoting model governance and regulatory compliance.
+
+5. **Customizable Solutions:** The versatility of ProsumerSense allows for customizable solutions that adapt to different housing types, climates, and resident behaviors. It enables data-driven decision-making and tailoring of solutions to unique requirements.
+
+To delve deeper into the ProsumerSense solution, you can access our comprehensive documentation in the provided source code repository. This repository houses detailed technical specifications, architectural diagrams, code samples, and usage guides, enabling developers, architects, and stakeholders to explore and implement the solution effectively.
+
+In conclusion, ProsumerSense represents a paradigm shift in sustainable housing. By leveraging Watson AI, BIM, and IBM Match 360 with watson Digital Twin technology, and integrating social-physical behavioral sensing, ProsumerSense offers an advanced, adaptable, and comprehensive solution to optimize housing's environmental parameters, energy consumption, and grid efficiency. This breakthrough not only addresses the pressing challenges of today's housing sector but also paves the way for a more sustainable and resilient future.
+
+More detail is available in our [ProsumerSense](https://docs.google.com/document/d/1V7PhQyX1kaqYwXmxbH0YATcUxemS5L2AGMT7DJpKZLo/edit?usp=sharing.)
 
 ## Technology implementation
 
