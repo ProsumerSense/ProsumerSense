@@ -123,11 +123,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### Authors
 
-<a href="https://github.com/Aaron-MSB">
-  <img src="https://github.com/Aaron-MSB" />
-</a>
-
-- **Aaron Masuba** - _Initial work_ - [Aaron Masuba](https://github.com/Aaron-MSB)
+- **Aaron Masuba** - _Project Lead_ - [Aaron Masuba](https://github.com/Aaron-MSB)
 
 ### License
 
@@ -135,4 +131,4 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ### Acknowledgments
 
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+- Thanks to our Mentor ***Ms. Jennifer Judge*** for the tremendous insights and guidance.
