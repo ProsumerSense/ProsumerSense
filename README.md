@@ -78,15 +78,17 @@ More detail is available in our [ProsumerSense](https://docs.google.com/document
 - [Watson Assistant on Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=services-watson-assistant) - Integrates conversation interfaces into the ProsumerSense application and device attachments.
 
 ### Other IBM technology used
-IBM IoT Platform
-IBM Instana Observability
-Node-RED
+- IBM IoT Platform
+- IBM Instana Observability
+- Node-RED
 
 ### Solution architecture
 
 Diagram and step-by-step description of the flow of our solution:
+![image](https://github.com/ProsumerSense/ProsumerSense/assets/139712652/d6bc153f-1e3f-43f7-9f09-fa82b6709cb9)
 
-![Video transcription/translaftion app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Video transcription/translaftion app]()
+
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
