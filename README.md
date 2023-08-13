@@ -71,19 +71,16 @@ More detail is available in our [ProsumerSense](https://docs.google.com/document
 ## Technology implementation
 
 ### IBM AI service(s) used
-
-_INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
-
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- List any additional [IBM AI services](https://cloud.ibm.com/catalog?category=ai#services) used or remove this line
+- [Decision Optimization on Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=services-decision-optimization) - Provides CPLEX optimization engines to ProsumerSense to make optimal business decisions from millions of possibilities to find the appropriate prescriptive solution for energy consumption, enviornmental params and grid efficiency.
+- [AI Factsheets for Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=services-ai-factsheets) - Used to organize and track lineage events from calendars, external programs such as traffic data, weather, public and social gatherings etc.
+- [IBM Match 360 on Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=services-match-360-watson) - Used to seamlessly consolidate data from dispparate sources to establish a single, trusted, 360-degree view of the ProsumerSense customers to deliver energy consumption insights.
+- [Watson Studio on Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=services-watson-studio) - Used to unlock the power of our data by building ProsumerSense custome models and infusing our energy consumption patterns with AI and machine learning.
+- [Watson Assistant on Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=services-watson-assistant) - Integrates conversation interfaces into the ProsumerSense application and device attachments.
 
 ### Other IBM technology used
-
-INSTRUCTIONS: List any other IBM technology used in your solution and describe how each component was used. If you can provide links to/details on exactly where these were used in your code, that would help the judges review your submission.
+IBM IoT Platform
+IBM Instana Observability
+Node-RED
 
 ### Solution architecture
 
@@ -112,7 +109,7 @@ The project currently does the following things.
 - House Energy Consumption
 - Calendar and Event Integration
 
-In the future we plan to use IBM Maximo 360 to create a digital twin for Image interpretation and transformation of housing plans.
+In the future we plan to use IBM Maximo 360 to create a digital twin for image interpretation and transformation of housing designs to optimize housing energy plans and integrate sustainability practices in building plans, next shall be a converstaion Watson Assistant to integrate conversation interfaces into the ProsumerSense application and device attachments.
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
@@ -120,8 +117,6 @@ See below for our proposed schedule on next steps after Call for Code 2023 submi
 
 
 ## Additional details
-
-_INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
 
 ### How to run the project
 
@@ -135,9 +130,7 @@ See our [description document](./docs/DESCRIPTION.md) for log in credentials.
 
 ---
 
-_INSTRUCTIONS: You can remove the below section from your specific project README._
-
-## About this template
+## About this Project
 
 ### Contributing
 
