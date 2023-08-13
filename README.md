@@ -116,7 +116,8 @@ In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
-![Roadmap](./images/roadmap.jpg)
+!![image](https://github.com/ProsumerSense/ProsumerSense/assets/139712652/e2758587-f406-4712-a540-cd96ebffec5c)
+
 
 ## Additional details
 
