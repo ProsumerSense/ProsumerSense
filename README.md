@@ -108,15 +108,15 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Housing Environmental Parameters Monitoring
+- House Energy Consumption
+- Calendar and Event Integration
 
-In the future we plan to...
+In the future we plan to use IBM Maximo 360 to create a digital twin for Image interpretation and transformation of housing plans.
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
-!![image](https://github.com/ProsumerSense/ProsumerSense/assets/139712652/e2758587-f406-4712-a540-cd96ebffec5c)
+![image](https://github.com/ProsumerSense/ProsumerSense/assets/139712652/e2758587-f406-4712-a540-cd96ebffec5c)
 
 
 ## Additional details
