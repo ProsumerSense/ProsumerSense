@@ -101,7 +101,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-https://youtu.be/uSSBEoDyFb8
+![image](https://github.com/ProsumerSense/ProsumerSense/assets/139712652/2613343e-fb69-4ca9-a815-31181450f6d3)(https://youtu.be/uSSBEoDyFb8)
 
 
 ### Project development roadmap
